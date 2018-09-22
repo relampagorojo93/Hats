@@ -3,3 +3,16 @@ Contact methods:
   Skype --> relampagorojo93
   Discord --> relampagorojo93#2415
 Version: 1.0
+
+// Hats info
+Content: 3 hats
+Hats:
+  Dragon:
+    Permission: Hats.Dragon
+    Function: Shoot fire while sneaking
+  Corn:
+    Permission: Hats.Corn
+    Function: Throw coloured dust while gliding
+  NoteBlock:
+    Permission: Hats.NoteBlock
+    Function: Throw notes over your head
